@@ -1,8 +1,8 @@
-# Getting Started with Create React App
+# install packages by entering the following command in your terminal:
 
-npm install
+### `npm install`
 
-
+# start project by entering the following command in your terminal:
 
 ### `npm start`
 
